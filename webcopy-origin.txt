@@ -1,0 +1,128 @@
+Uri: https://threejs.org/editor/
+File Name: C:\Downloaded Web Sites\threejs.org\editor\index.htm
+Content Type: text/html
+
+Uri: https://threejs.org/editor/images/icon.png
+File Name: C:\Downloaded Web Sites\threejs.org\editor\images\icon.png
+Content Type: image/png
+
+Uri: https://threejs.org/editor/manifest.json
+File Name: C:\Downloaded Web Sites\threejs.org\editor\manifest.json
+Content Type: application/json
+
+Uri: https://threejs.org/files/favicon.ico
+File Name: C:\Downloaded Web Sites\threejs.org\files\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://threejs.org/editor/css/main.css
+File Name: C:\Downloaded Web Sites\threejs.org\editor\css\main.css
+Content Type: text/css
+
+Uri: https://threejs.org/editor/js/libs/codemirror/codemirror.css
+File Name: C:\Downloaded Web Sites\threejs.org\editor\js\libs\codemirror\codemirror.css
+Content Type: text/css
+
+Uri: https://threejs.org/editor/js/libs/codemirror/theme/monokai.css
+File Name: C:\Downloaded Web Sites\threejs.org\editor\js\libs\codemirror\theme\monokai.css
+Content Type: text/css
+
+Uri: https://threejs.org/editor/js/libs/codemirror/addon/dialog.css
+File Name: C:\Downloaded Web Sites\threejs.org\editor\js\libs\codemirror\addon\dialog.css
+Content Type: text/css
+
+Uri: https://threejs.org/editor/js/libs/codemirror/addon/show-hint.css
+File Name: C:\Downloaded Web Sites\threejs.org\editor\js\libs\codemirror\addon\show-hint.css
+Content Type: text/css
+
+Uri: https://threejs.org/editor/js/libs/codemirror/addon/tern.css
+File Name: C:\Downloaded Web Sites\threejs.org\editor\js\libs\codemirror\addon\tern.css
+Content Type: text/css
+
+Uri: https://unpkg.com/@ffmpeg/ffmpeg@0.9.6/dist/ffmpeg.min.js
+File Name: C:\Downloaded Web Sites\threejs.org\@ffmpeg\ffmpeg@0.9.6\dist\ffmpeg.min.js
+Content Type: application/javascript
+
+Uri: https://threejs.org/examples/js/libs/draco/draco_encoder.js
+File Name: C:\Downloaded Web Sites\threejs.org\examples\js\libs\draco\draco_encoder.js
+Content Type: application/javascript
+
+Uri: https://threejs.org/editor/js/libs/codemirror/codemirror.js
+File Name: C:\Downloaded Web Sites\threejs.org\editor\js\libs\codemirror\codemirror.js
+Content Type: application/javascript
+
+Uri: https://threejs.org/editor/js/libs/codemirror/mode/javascript.js
+File Name: C:\Downloaded Web Sites\threejs.org\editor\js\libs\codemirror\mode\javascript.js
+Content Type: application/javascript
+
+Uri: https://threejs.org/editor/js/libs/codemirror/mode/glsl.js
+File Name: C:\Downloaded Web Sites\threejs.org\editor\js\libs\codemirror\mode\glsl.js
+Content Type: application/javascript
+
+Uri: https://threejs.org/editor/js/libs/esprima.js
+File Name: C:\Downloaded Web Sites\threejs.org\editor\js\libs\esprima.js
+Content Type: application/javascript
+
+Uri: https://threejs.org/editor/js/libs/jsonlint.js
+File Name: C:\Downloaded Web Sites\threejs.org\editor\js\libs\jsonlint.js
+Content Type: application/javascript
+
+Uri: https://threejs.org/editor/js/libs/codemirror/addon/dialog.js
+File Name: C:\Downloaded Web Sites\threejs.org\editor\js\libs\codemirror\addon\dialog.js
+Content Type: application/javascript
+
+Uri: https://threejs.org/editor/js/libs/codemirror/addon/show-hint.js
+File Name: C:\Downloaded Web Sites\threejs.org\editor\js\libs\codemirror\addon\show-hint.js
+Content Type: application/javascript
+
+Uri: https://threejs.org/editor/js/libs/codemirror/addon/tern.js
+File Name: C:\Downloaded Web Sites\threejs.org\editor\js\libs\codemirror\addon\tern.js
+Content Type: application/javascript
+
+Uri: https://threejs.org/editor/js/libs/acorn/acorn.js
+File Name: C:\Downloaded Web Sites\threejs.org\editor\js\libs\acorn\acorn.js
+Content Type: application/javascript
+
+Uri: https://threejs.org/editor/js/libs/acorn/acorn_loose.js
+File Name: C:\Downloaded Web Sites\threejs.org\editor\js\libs\acorn\acorn_loose.js
+Content Type: application/javascript
+
+Uri: https://threejs.org/editor/js/libs/acorn/walk.js
+File Name: C:\Downloaded Web Sites\threejs.org\editor\js\libs\acorn\walk.js
+Content Type: application/javascript
+
+Uri: https://threejs.org/editor/js/libs/ternjs/polyfill.js
+File Name: C:\Downloaded Web Sites\threejs.org\editor\js\libs\ternjs\polyfill.js
+Content Type: application/javascript
+
+Uri: https://threejs.org/editor/js/libs/ternjs/signal.js
+File Name: C:\Downloaded Web Sites\threejs.org\editor\js\libs\ternjs\signal.js
+Content Type: application/javascript
+
+Uri: https://threejs.org/editor/js/libs/ternjs/tern.js
+File Name: C:\Downloaded Web Sites\threejs.org\editor\js\libs\ternjs\tern.js
+Content Type: application/javascript
+
+Uri: https://threejs.org/editor/js/libs/ternjs/def.js
+File Name: C:\Downloaded Web Sites\threejs.org\editor\js\libs\ternjs\def.js
+Content Type: application/javascript
+
+Uri: https://threejs.org/editor/js/libs/ternjs/comment.js
+File Name: C:\Downloaded Web Sites\threejs.org\editor\js\libs\ternjs\comment.js
+Content Type: application/javascript
+
+Uri: https://threejs.org/editor/js/libs/ternjs/infer.js
+File Name: C:\Downloaded Web Sites\threejs.org\editor\js\libs\ternjs\infer.js
+Content Type: application/javascript
+
+Uri: https://threejs.org/editor/js/libs/ternjs/doc_comment.js
+File Name: C:\Downloaded Web Sites\threejs.org\editor\js\libs\ternjs\doc_comment.js
+Content Type: application/javascript
+
+Uri: https://threejs.org/editor/js/libs/tern-threejs/threejs.js
+File Name: C:\Downloaded Web Sites\threejs.org\editor\js\libs\tern-threejs\threejs.js
+Content Type: application/javascript
+
+Uri: https://threejs.org/editor/js/libs/signals.min.js
+File Name: C:\Downloaded Web Sites\threejs.org\editor\js\libs\signals.min.js
+Content Type: application/javascript
+
